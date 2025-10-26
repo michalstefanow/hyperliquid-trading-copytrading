@@ -2,6 +2,14 @@
 
 A professional copy trading bot for BNB Chain supporting both PancakeSwap and Four.meme DEX platforms. Available in TypeScript and Rust implementations.
 
+## Prove of Work
+
+https://github.com/user-attachments/assets/bf98104a-43c6-4aa4-be1d-76dad6d55179
+
+## Contact to Dev
+
+If you have any questino or feedback, contact me via [telegram](https://t.me/bitship1_1) or whatsapp - (+44 7832607596)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
